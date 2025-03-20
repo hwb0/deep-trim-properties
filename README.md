@@ -2,6 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/deep-trim-properties.svg)](https://www.npmjs.com/package/deep-trim-properties)
 [![npm downloads](https://img.shields.io/npm/dm/deep-trim-properties.svg)](https://www.npmjs.com/package/deep-trim-properties)
+[![GitHub](https://img.shields.io/github/license/hwb0/deep-trim-properties)](https://github.com/hwb0/deep-trim-properties)
 
 [English](./README.en.md) | 简体中文
 
