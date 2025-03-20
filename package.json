@@ -53,10 +53,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huangwb8/deep-trim-properties.git"
+    "url": "git+https://github.com/hwb0/deep-trim-properties.git"
   },
   "bugs": {
-    "url": "https://github.com/huangwb8/deep-trim-properties/issues"
+    "url": "https://github.com/hwb0/deep-trim-properties/issues"
   },
-  "homepage": "https://github.com/huangwb8/deep-trim-properties#readme"
+  "homepage": "https://github.com/hwb0/deep-trim-properties#readme"
 }
