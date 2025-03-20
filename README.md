@@ -22,7 +22,7 @@
 ## 安装
 
 ```bash
-npm install deep-trim-properties
+npm install --save-dev deep-trim-properties
 ```
 
 ## 使用
