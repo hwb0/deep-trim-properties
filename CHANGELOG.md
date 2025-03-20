@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2024-03-20
+
+### Changed
+- Updated package installation recommendation to use --save-dev
+- Added CHANGELOG.md for better version tracking
+- Improved documentation structure
+
 ## [1.0.3] - 2024-03-20
 
 ### Changed

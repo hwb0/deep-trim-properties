@@ -1,6 +1,6 @@
 {
   "name": "deep-trim-properties",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个用于去除数据中字符串属性首尾空格的工具",
   "type": "commonjs",
   "main": "dist/index.js",
